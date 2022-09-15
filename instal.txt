@@ -1,0 +1,8 @@
+instalações para o projeto - node js:
+
+Express: npm install express
+
+types Express: npm i @types/express -D
+
+TypeScript: npm i typescript -D
+
